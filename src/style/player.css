@@ -1,0 +1,15 @@
+.player {
+  margin: auto;
+  width: 700px;
+  display: flex;
+  justify-content: space-between;
+  border: 1px solid blueviolet;
+}
+.score {
+  width: 150px;
+  display: flex;
+  justify-content: space-between;
+}
+.playerName {
+  margin-left: 50px;
+}

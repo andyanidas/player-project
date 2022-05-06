@@ -1,0 +1,14 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 700px;
+  background-color: blueviolet;
+  margin: auto;
+}
+.header h1 {
+  margin-left: 50px;
+}
+.header p {
+  margin-right: 50px;
+}
